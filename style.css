@@ -1,0 +1,40 @@
+h1 {
+    background-image: url("images/image1.jpeg");
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+   
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+h3 {
+    font-family: Helvetica;
+}
+
+.image2 {
+    background-color: mediumspringgreen;
+}
+
+.image3 {
+    background-color: lightcoral;
+}
+
+.image4 {
+    background-color: skyblue;
+
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
